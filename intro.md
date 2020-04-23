@@ -1,1 +1,1 @@
-Welcome to PolyStrike v1 Beta
+PolyStrike v1 Beta
