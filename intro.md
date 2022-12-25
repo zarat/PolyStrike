@@ -1,5 +1,3 @@
-PolyStrike v1.0 alpha
+PolyStrike v1.0 rolling alpha
 
-This is an alpha demo version.
-
-Dont expect too much.
+This is an alpha demo version, dont expect too much.
