@@ -1,3 +1,3 @@
 # PolyStrike
 
-A very simple multiplayer shooter made with unity.
+A very simple P2P multiplayer shooter made with unity.
