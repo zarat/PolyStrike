@@ -1,5 +1,5 @@
 # PolyStrike
 
-A very simple P2P multiplayer shooter made with unity. ![Download](https://github.com/zarat/PolyStrike/releases)
+A very simple P2P multiplayer shooter made with unity. [Download](https://github.com/zarat/PolyStrike/releases)
 
 ![ALT Text](screenshot1.PNG)
