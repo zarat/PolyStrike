@@ -1,3 +1,3 @@
 PolyStrike v1.0 rolling alpha
 
-https://github.com/zarat/polkystrike
+This is a rolling alpha demo version, dont expect too much.
