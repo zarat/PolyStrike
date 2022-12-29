@@ -1,3 +1,4 @@
 PolyStrike v1.0 rolling alpha
 
-More info at https://github.com/zarat/polystrike
+Author: Adam Elibaev & Manuel Zarat
+Info: https://github.com/zarat/polystrike
