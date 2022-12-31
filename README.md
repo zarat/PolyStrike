@@ -9,6 +9,6 @@ A simple P2P multiplayer shooter made with unity.
 
 More maps are coming soon..
 
-[Download](https://github.com/zarat/PolyStrike/releases)
+[Download alpha demo](https://github.com/zarat/PolyStrike/releases)
 
 ![ALT Text](screenshot.png)
