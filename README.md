@@ -11,4 +11,4 @@ More maps are coming soon..
 
 [Download alpha demo](https://github.com/zarat/PolyStrike/releases)
 
-![ALT Text](screenshot.png)
+![ALT Text](screenshot.PNG)
